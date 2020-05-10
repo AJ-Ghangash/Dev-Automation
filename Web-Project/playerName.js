@@ -1,0 +1,1 @@
+[{"idx":0,"name":"Chris Gayle"},{"idx":1,"name":"Shikhar Dhawan"},{"idx":2,"name":"AB de"},{"idx":3,"name":"Harbhajan Singh"},{"idx":4,"name":"Yuvraj Singh"},{"idx":5,"name":"Suresh Raina"},{"idx":6,"name":"Rohit Sharma"},{"idx":7,"name":"MS Dhoni"},{"idx":8,"name":"Sachin Tendulkar"},{"idx":9,"name":"Virat Kohli"}]
